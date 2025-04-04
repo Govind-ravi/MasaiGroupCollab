@@ -19,7 +19,7 @@ Make sure you have:
 
 ### 1. Clone the Repo
 
-Open terminal and run:
+Open terminal and run (better run in desktop directory i,e ~/Desktop/): 
 
 ```bash
 git clone https://github.com/Govind-ravi/MasaiGroupCollab.git
