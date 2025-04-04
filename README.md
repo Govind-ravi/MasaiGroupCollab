@@ -23,6 +23,8 @@ Open terminal and run:
 
 ```bash
 git clone https://github.com/Govind-ravi/MasaiGroupCollab.git
+```
+```bash
 cd MasaiGroupCollab
 ```
 
@@ -41,6 +43,8 @@ Example: git checkout -b Alice
 ### 4️. Stage and Commit the Changes
 ```bash
 git add .
+```
+```bash
 git commit -m "Added reverse string question"
 ```
 Let the commit message be meaning full specifying added or solved
@@ -56,10 +60,14 @@ git push origin your-branch-name
 - You’ll see a button saying “Compare & Pull Request”
 - Add a message → click Create Pull Request
 
+---
+
 ## 🔁 Next Time Before Starting:
 Always pull latest code:
 ```bash
 git checkout main
+```
+```bash
 git pull origin main
 ```
 Then again create a new branch and follow the steps 👆
